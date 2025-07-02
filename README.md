@@ -54,6 +54,12 @@ Rather than showcasing protective immunity, this dataset uncovers **stress-domin
   * Antigen processing and presentation
 * Pathways suggest **maladaptive stress responses** over immune protection
 
+### Novel Contributions Highlight:
+✅ Universal stress response as a marker for severe COVID-19.
+✅ Cell-type-specific dysfunction hierarchy explaining severe disease outcomes.
+✅ Identification of tissue-specific immune exhaustion in severe COVID-19 lungs.
+✅ Data suggests immune failure, not hyperactivation, in severe COVID-19.
+
 ---
 
 ## ⚡ Technical Workflow
@@ -153,6 +159,14 @@ Rather than showcasing protective immunity, this dataset uncovers **stress-domin
 * Single patient-control comparison
 * Lung-specific analysis
 * Represents **severe COVID-19 pathology** rather than mild disease
+
+---
+
+### References
+
+Mohammed, R.N., Tamjidifar, R., Rahman, H.S., et al. (2022). A comprehensive review about immune responses and exhaustion during coronavirus disease (COVID-19). Cell Communication and Signaling, 20, 79. https://doi.org/10.1186/s12964-022-00856-w
+
+This paper contextualizes immune exhaustion in COVID-19, complementing our findings of stress-dominated responses and immune dysfunction at the single-cell level in lung tissue.
 
 ---
 
