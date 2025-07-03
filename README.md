@@ -168,6 +168,8 @@ Mohammed, R.N., Tamjidifar, R., Rahman, H.S., et al. (2022). A comprehensive rev
 
 This paper contextualizes immune exhaustion in COVID-19, complementing our findings of stress-dominated responses and immune dysfunction at the single-cell level in lung tissue.
 
+📌 This project complements Mohammed et al. (2022), which reviewed systemic immune exhaustion in COVID-19. By analyzing single-cell lung tissue, we demonstrate how severe COVID-19 involves cell-type-specific stress responses, immune dysfunction, and impaired repair, aligning with their findings but providing tissue-level, single-cell resolution insights. This connection strengthens our understanding of severe COVID-19 as a disease of immune exhaustion and cellular crisis, identifying potential biomarkers and therapeutic targets for intervention.
+
 ---
 
 ## ✏️ Citation
